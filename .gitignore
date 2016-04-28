@@ -1,0 +1,11 @@
+.settings
+.project
+.classpath
+.tern-project
+/target/
+*/.settings
+*/.project
+*/.classpath
+*/target/
+*/.tern-project
+
