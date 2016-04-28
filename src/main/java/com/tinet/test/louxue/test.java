@@ -86,7 +86,8 @@ public class test {
 		System.out.println("1".contains("1"));
 		
 		System.out.println("1,'"+null+"'");
-		System.out.println("conflict coming");
+		System.out.println("哈哈哈哈");		
+		System.out.println("Conflicts coming");
 	}
 }
 
