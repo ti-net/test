@@ -86,6 +86,7 @@ public class test {
 		System.out.println("1".contains("1"));
 		
 		System.out.println("1,'"+null+"'");
+		System.out.println("哈哈哈哈");
 	}
 }
 
