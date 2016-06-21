@@ -18,7 +18,7 @@ public class test {
 	
 	public static void exceptionMethod() {
 		try {
-			System.out.print( 6/0 );
+			System.out.print( 60/0 );
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
