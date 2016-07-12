@@ -14,11 +14,11 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 
-public class test2 {
+public class test23 {
 	
 	public static void exceptionMethod() {
 		try {
-			System.out.print( 6/0 );;;;;
+			System.out.print( 60/0 );
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
