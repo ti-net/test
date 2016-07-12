@@ -3,11 +3,9 @@ package com.tinet.test.louxue;
 import java.io.IOException;
 import java.math.BigDecimal;
 import java.text.ParseException;
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Date;
 import java.util.HashMap;
-import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
@@ -20,7 +18,7 @@ public class test {
 	
 	public static void exceptionMethod() {
 		try {
-			System.out.print( 6/0 );
+			System.out.print( 60/0 );
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
@@ -89,7 +87,8 @@ public class test {
 		System.out.println("哈哈哈哈");		
 		System.out.println("Conflicts coming");
 		System.out.println("777");
-		System.out.println("release 1.1.3");
+		System.out.println("release 1.1.4");
+		System.out.println("啦啦啦啦啦");
 	}
 }
 
