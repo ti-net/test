@@ -1,9 +1,9 @@
 diff a/test.txt b/test.txt	(rejected hunks)
-@@ -0,4 +0 @@
+@@ -1 +1,4 @@
 -啊啊啊，这里是李政测试时候新增的文本
--
--
--提交一个分支？
 \ No newline at end of file
 +啊啊啊，这里是李政测试时候新增的文本
++
++
++提交一个分支？
 \ No newline at end of file
