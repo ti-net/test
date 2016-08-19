@@ -24,5 +24,6 @@ public class Test {
 		}
 		
 		System.out.println("分支第一次提交");
+		System.out.println("分支第二次提交");
 	}
 }
