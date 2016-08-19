@@ -22,6 +22,8 @@ public class Test {
 			}
 			System.err.println();
 		}
+		
+		System.out.println("分支第一次提交");
 
 	}
 }
