@@ -27,5 +27,6 @@ public class Test {
 		System.out.println("分支第二次提交");
 		System.out.println("分支第三次提交");
 		System.out.println("主干第四次提交");
+		System.out.println("主干第五次提交");
 	}
 }
