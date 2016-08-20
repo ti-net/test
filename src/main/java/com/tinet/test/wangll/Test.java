@@ -30,5 +30,8 @@ public class Test {
 		System.out.println("分支第四次提交");
 		System.out.println("主干第五次提交");
 		System.out.println("主干第六次提交");
+		
+		System.out.println("2016-8-20 第一次develop提交");
+		
 	}
 }
