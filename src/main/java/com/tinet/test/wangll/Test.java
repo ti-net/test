@@ -38,5 +38,8 @@ public class Test {
 		System.out.println("develop 第一次提交");
 		System.out.println("test 第一次提交");
 		System.out.println("develop 第二次提交");
+		
+		System.out.println("release 第一次提交");
+		
 	}
 }
