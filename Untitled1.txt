@@ -1,1 +1,1 @@
-只有poll没有取到对象时才sleep
+鍙湁poll娌℃湁鍙栧埌瀵硅薄鏃舵墠sleep
