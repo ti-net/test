@@ -30,15 +30,13 @@ public class Test {
 		System.out.println("分支第四次提交");
 		System.out.println("主干第五次提交");
 		System.out.println("主干第六次提交");
-		
 		System.out.println("2016-8-20 第一次develop提交");
 		System.out.println("2016-8-20 第二次develop提交");
 		System.out.println("2016-8-20 第一次分支提交");
 		System.out.println("2016-8-20 第二次分支提交");
 		System.out.println("2016-8-20 第三次分支提交");
-		
 		System.out.println("develop 第一次提交");
-		
+		System.out.println("test 第一次提交");
 		System.out.println("develop 第二次提交");
 	}
 }
