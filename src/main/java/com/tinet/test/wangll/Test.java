@@ -41,5 +41,7 @@ public class Test {
 		
 		System.out.println("release 第一次提交");
 		
+		System.out.println("feature 第一次提交");
+		
 	}
 }
