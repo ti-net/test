@@ -40,6 +40,7 @@ public class Test {
 		System.out.println("develop 第二次提交");
 		
 		System.out.println("release 第一次提交");
-		
+		System.out.println("feature 第一次提交");
+		System.out.println("develop 第三次提交");
 	}
 }
