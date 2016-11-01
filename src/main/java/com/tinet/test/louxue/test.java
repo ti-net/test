@@ -31,7 +31,7 @@ public class test {
 	 */
 	public static void main(String[] args) throws ParseException, IOException {
 		
-		String entIds="19,20,19";
+		String entIds="19,20,19,20";
 		String[]entArray = entIds.split(",");
 		System.out.println(Arrays.toString(entArray));
 		List list = new LinkedList();
